@@ -1,7 +1,7 @@
 package main
 
 import (
-	"markedit/internal/ui"
+	"markup/internal/ui"
 
 	"fyne.io/fyne/v2"
 	"fyne.io/fyne/v2/app"

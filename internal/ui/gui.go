@@ -8,8 +8,8 @@ import (
 	"fyne.io/fyne/v2/dialog"
 	"fyne.io/fyne/v2/widget"
 
-	"markedit/internal/core"
-	"markedit/internal/markdown"
+	"markup/internal/core"
+	"markup/internal/markdown"
 )
 
 // GuiController 主界面控制器

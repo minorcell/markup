@@ -12,7 +12,7 @@ import (
 	"github.com/gomarkdown/markdown/parser"
 	"github.com/microcosm-cc/bluemonday"
 
-	"markedit/internal/core"
+	"markup/internal/core"
 )
 
 // Renderer Markdown渲染器

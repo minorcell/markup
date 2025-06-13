@@ -1,4 +1,4 @@
-module markedit
+module markup
 
 go 1.21
 
